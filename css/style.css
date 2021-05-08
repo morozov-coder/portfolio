@@ -14,7 +14,7 @@ body {
 
 .header {
   height: 100vh;
-  background: gray url("/images/bg.png") no-repeat center;
+  background: gray url("../images/bg.png") no-repeat center;
   background-size: cover;
 }
 
